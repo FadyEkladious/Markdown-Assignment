@@ -17,6 +17,13 @@
 - **Networking:** The operating system provides networking capabilities such as establishing and managing network connections, handling network protocols, and sharing resources such as printers and files over a network.
 
    *For website source [Click Here](https://www.geeksforgeeks.org/what-is-an-operating-system/)*
+  
+##
+
+  *URLS Markdown videos*
+  1. *[First Video Link](https://www.youtube.com/watch?v=HUBNt18RFbo)*
+  
+  1. *[Second Video Link](https://www.youtube.com/watch?v=eJojC3lSkwg)*
  
 
 
